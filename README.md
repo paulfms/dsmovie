@@ -29,6 +29,7 @@ Foi utilizado o <b> Java 17, Spring Boot 2.6.4</b> através do <b>initializr</b>
 
 <p> A Aplicação frontend está em nuvem no Netlify e o backend está no Heroku. Ambas as plataformas estão se comunicando. </p>
 <p> Caso queira acessar a aplicação hospedada: <a href="https://paul-dsmovie.netlify.app/">DSMovie </a> </p>
+<p> OBS: Ao clicar no link aguarde cerca de 10 segundos p/ carregar a lista que está armazenada no Heroku. </p>
 
 # ⚙️ Banco de Dados
 
